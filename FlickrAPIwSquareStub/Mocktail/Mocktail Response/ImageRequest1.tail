@@ -1,0 +1,6 @@
+GET
+http://farm9.staticflickr.com/8119/8628727982_32d81a3a81.jpg
+200
+image/jpeg
+
+{{ image }}
