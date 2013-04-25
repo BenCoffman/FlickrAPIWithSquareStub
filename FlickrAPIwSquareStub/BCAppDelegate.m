@@ -19,9 +19,6 @@
     MImage *image1 = [[MImage alloc] initWithValues:@"8628727982_32d81a3a81.jpg" imageURL:@"http://farm9.staticflickr.com/8119/8628727982_32d81a3a81.jpg"];
     MImage *image2 = [[MImage alloc] initWithValues:@"8605894933_5a08fc107e.jpg" imageURL:@"http://farm9.staticflickr.com/8405/8605894933_5a08fc107e.jpg"];
     
-    UIImage *image = [[UIImage alloc] init];
-    
-    
     mock[@"image1"] = image1;
     mock[@"image2"] = image2;
 
